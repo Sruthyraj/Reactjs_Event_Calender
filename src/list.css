@@ -1,0 +1,25 @@
+h3 {
+  color: black;
+}
+
+.list-item {
+  display: grid;
+  grid-template-columns: auto 120px;
+  margin: 7px;
+}
+.btton {
+  display: flex;
+  flex-direction: row;
+}
+.listMain {
+  margin: 30px;
+  border: 3px solid silver;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+h3,
+h4 {
+  padding: 5px;
+  color: rgb(12, 12, 214);
+}
