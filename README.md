@@ -1,6 +1,8 @@
 # Event Calender Using Reatjs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using this appication we can add day to day event details and perform CURD Operation on it.
+Local storage used to stores items.
 
 
 
